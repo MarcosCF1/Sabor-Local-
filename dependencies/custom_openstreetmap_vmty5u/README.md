@@ -1,4 +1,4 @@
-# Projeto Sabor Local
+# CustomOpenstreetmap
 
 A new Flutter project.
 
